@@ -41,7 +41,7 @@ This project implements the mathematical model, which captures:
 | Constraint ID | Mathematical Expression | Description | Units |
 |--------------|-------------------------|-------------|-------|
 | C-1 | ( $T_f \leq 800^\circ C $) | Maximum allowable fuel temperature to prevent cladding damage | °C |
-| C-2 | (|\Delta \rho_{\text{prod}}| $\leq 0.1\% \Delta k/k \, \text{s}^{-1}$) | Maximum reactivity insertion rate for control rod movement | %Δk/k/s |
+| C-2 | ($\Delta \rho_{\text{prod}} \leq 0.1\% \Delta k/k \, \text{s}^{-1}$) | Maximum reactivity insertion rate for control rod movement | %Δk/k/s |
 | C-3 | \($ E \leq E_{\text{max}} \$) | Licensed cumulative energy production limit | MW-s |
 | C-4 | \( $\|\frac{dP}{dt}\| \leq 0.05 P_{\text{min}}^{-1} \)$ | Maximum allowable power ramp rate (±5% full power per minute) | %FP/min |
 
