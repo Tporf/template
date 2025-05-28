@@ -13,7 +13,7 @@ This project implements the mathematical model described in the ACMp4 diagrams, 
 
 ## Key Features
 - **State Vector Modeling**: 
-  ```math
+  
   x = [P, T_f, C, E, T_c]^T
 
   Where:
