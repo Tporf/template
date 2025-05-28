@@ -14,14 +14,14 @@ This project implements the mathematical model described in the ACMp4 diagrams, 
 ## Key Features
 - **State Vector Modeling**: 
   
-  x = [P, T_f, C, E, T_c]^T
+  x = $[P, T_f, C, E, T_c]^$
 
   Where:
   - P = Core power (MW)
-  - T_f = Average fuel temperature (°C)
+  - $T_f$ = Average fuel temperature (°C)
   - C = Delayed-neutron precursor concentration
   - E = Burn-up/energy tally (MW-s)
-  - T_c = Hot-leg coolant temperature (°C)
+  - $T_c$ = Hot-leg coolant temperature (°C)
 
 - **Dynamics Equations**:
   - Power evolution with reactivity feedback
