@@ -1,14 +1,5 @@
 \documentclass[12pt]{article}
-\usepackage{amsmath}
-\usepackage{graphicx}
-\usepackage{hyperref}
-\usepackage[utf8]{inputenc}
-\usepackage{booktabs}
-\usepackage{siunitx}
 
-\title{Nuclear Reactor Dynamics Model Documentation}
-\author{Your Name}
-\date{\today}
 
 \begin{document}
 
