@@ -17,10 +17,10 @@ This project implements the mathematical model described in the ACMp4 diagrams, 
   x = $[P, T_f, C, E, T_c]^T$
 
   Where:
-  - P = Core power (MW)
+  - $P$ = Core power (MW)
   - $T_f$ = Average fuel temperature (°C)
-  - C = Delayed-neutron precursor concentration
-  - E = Burn-up/energy tally (MW-s)
+  - $C$ = Delayed-neutron precursor concentration
+  - $E$ = Burn-up/energy tally (MW-s)
   - $T_c$ = Hot-leg coolant temperature (°C)
 
 - **Dynamics Equations**:
