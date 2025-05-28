@@ -4,7 +4,7 @@
 A MATLAB/Python-based simulation tool for modeling and analyzing the dynamic behavior of nuclear reactors, with a focus on safety constraints and non-linear feedback effects.
 
 ## Project Overview
-This project implements the mathematical model described in the ACMp4 diagrams, which captures:
+This project implements the mathematical model, which captures:
 - Core power dynamics
 - Fuel and coolant temperature evolution
 - Delayed neutron precursors
