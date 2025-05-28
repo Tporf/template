@@ -1,4 +1,4 @@
-```markdown
+
 # Nuclear Reactor Dynamics Simulator (NRDS)
 
 A MATLAB/Python-based simulation tool for modeling and analyzing the dynamic behavior of nuclear reactors, with a focus on safety constraints and non-linear feedback effects.
@@ -15,7 +15,7 @@ This project implements the mathematical model described in the ACMp4 diagrams, 
 - **State Vector Modeling**: 
   ```math
   x = [P, T_f, C, E, T_c]^T
-  ```
+
   Where:
   - P = Core power (MW)
   - T_f = Average fuel temperature (°C)
