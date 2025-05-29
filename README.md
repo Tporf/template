@@ -31,10 +31,10 @@ ${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
 $\dot{T_f} $
 
 **Delayed Neutrons**:
-$ С_а  $
+$${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
 
 **Coolant Temperature**:
-$ \dot{T_c} $
+${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
 
 ### Key Parameters
 | Parameter | Description | Typical Range |
