@@ -34,7 +34,8 @@ $ \dot{T_f} = \frac{P}{m_f c_{pf}} - \frac{hA}{m_f c_{pf}}(T_f - T_c)$
 $ \dot{C} = \frac{\beta_{mtx}}{\Lambda}P - \lambda C $
 
 **Coolant Temperature**:
-$ \dot{T_c} = \frac{hA}{m_c c_{pc}}(T_f - T_c) - \frac{\dot{m}}{m_c}(T_c - T_{in})$
+![image](https://github.com/user-attachments/assets/04631aca-2b3b-47aa-8c16-70eba1c15302)
+
 
 ### Key Parameters
 | Parameter | Description | Typical Range |
