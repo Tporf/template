@@ -24,17 +24,8 @@ P, & T_f, & C, & E, & T_c
 - $T_c$: Coolant temperature (°C)
 
 ### Dynamic Equations
-**Power Dynamics**:
-![image](https://github.com/user-attachments/assets/d2c78c88-68a8-48a0-8257-75e3e953803c)
+![image](https://github.com/user-attachments/assets/a892fcef-cf13-41d3-9b13-bfe036440947)
 
-**Fuel Temperature**:
-![image](https://github.com/user-attachments/assets/072f7df3-3439-4409-bcfd-666c4e0ebc42)
-
-**Delayed Neutrons**:
-![image](https://github.com/user-attachments/assets/df722892-c403-4061-ae3e-aeb56b5b1522)
-
-**Coolant Temperature**:
-![image](https://github.com/user-attachments/assets/143dbba5-6244-49c3-9b3d-005ebe8cca3c)
 
 
 
