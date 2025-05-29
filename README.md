@@ -25,16 +25,17 @@ P, & T_f, & C, & E, & T_c
 
 ### Dynamic Equations
 **Power Dynamics**:
-$ \dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C$
+![image](https://github.com/user-attachments/assets/d2c78c88-68a8-48a0-8257-75e3e953803c)
 
 **Fuel Temperature**:
-$ \dot{T_f} = \frac{P}{m_f c_{pf}} - \frac{hA}{m_f c_{pf}}(T_f - T_c)$
+![image](https://github.com/user-attachments/assets/072f7df3-3439-4409-bcfd-666c4e0ebc42)
 
 **Delayed Neutrons**:
-$ \dot{C} = \frac{\beta_{mtx}}{\Lambda}P - \lambda C $
+![image](https://github.com/user-attachments/assets/df722892-c403-4061-ae3e-aeb56b5b1522)
 
 **Coolant Temperature**:
-![image](https://github.com/user-attachments/assets/04631aca-2b3b-47aa-8c16-70eba1c15302)
+![image](https://github.com/user-attachments/assets/143dbba5-6244-49c3-9b3d-005ebe8cca3c)
+
 
 
 ### Key Parameters
