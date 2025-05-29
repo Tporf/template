@@ -51,8 +51,20 @@ $ {\dot{T_c} = \frac{hA}{m_c c_{pc}}(T_f - T_c) - \frac{\dot{m}}{m_c}(T_c - T_{i
 | C-2 | $\|\Delta \rho\|\leq 0.1\% \Delta k/k/s$ | Reactivity rate |
 | C-3 | $E \leq E_{\text{max}}$ | Burnup limit |
 | C-4 | $\|\frac{dP}{dt}\|\leq 5\% P_{\text{nom}}/\text{min}$ | Power ramp rate |
-[9] https://www.youtube.com/watch?v=yVH33jkhBUU
-[10] https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation
 
----
-Answer from Perplexity: pplx.ai/share
+# Модель динамики реактора
+
+## Уравнения системы
+
+1. Динамика мощности:
+   dP/dt = ((rho - beta_mix)/Lambda)*P + lambda*C
+
+2. Температура топлива:
+   dT_f/dt = P/(m_f * c_pf) - (hA)/(m_f * c_pf) * (T_f - T_c)
+
+3. Задержанные нейтроны:
+   dC/dt = (beta_mix / Lambda)*P - lambda*C
+
+4. Температура теплоносителя:
+   dT_c/dt = (hA)/(m_c * c_pc) * (T_f - T_c) - (m_dot/m_c)*(T_c - T_in)
+
