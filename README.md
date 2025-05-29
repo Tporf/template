@@ -1,6 +1,4 @@
-Here's the complete README.md file incorporating both the dynamics equations and safety constraints:
 
-```markdown
 # Nuclear Reactor Dynamics Simulator (NRDS)
 
 A MATLAB/Python-based simulation tool for modeling nuclear reactor dynamics with safety constraints.
