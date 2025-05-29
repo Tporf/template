@@ -39,8 +39,8 @@ P & T_f & C & E & T_c
 ### Key Parameters
 | Parameter | Description | Typical Range |
 |-----------|-------------|---------------|
-| $m_f c_{pf}$ | Fuel heat capacity | 1-3 MJ/K |
-| $m_c c_{pc}$ | Coolant heat capacity | 0.5-1 MJ/K |
+| $m_f$ $c_{pf}$ | Fuel heat capacity | 1-3 MJ/K |
+| $m_c$ $c_{pc}$ | Coolant heat capacity | 0.5-1 MJ/K |
 | $hA$ | Fuel-coolant conductance | 40-100 MW/K |
 | $\Lambda$ | Neutron generation time | 10⁻⁵-10⁻⁴ s |
 
