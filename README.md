@@ -31,7 +31,7 @@ ${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
 $\dot{T_f} $
 
 **Delayed Neutrons**:
-$${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
+${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
 
 **Coolant Temperature**:
 ${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
