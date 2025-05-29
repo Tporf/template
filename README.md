@@ -15,7 +15,7 @@ This project implements the mathematical model from ACMp4.png, capturing:
 
 ### State Vector
 $$\[ \mathbf{x} = \begin{bmatrix}
-P & T_f & C & E & T_c
+P, & T_f, & C, & E, & T_c
 \end{bmatrix}^T \]$$
 - $P$: Core power (MW)
 - $T_f$: Fuel temperature (°C)
@@ -25,16 +25,16 @@ P & T_f & C & E & T_c
 
 ### Dynamic Equations
 **Power Dynamics**:
-$[ \dot{P} = \frac{\rho - \beta_{\text{mtx}}}{\Lambda}P + \lambda C ]$
+$ \dot{P} = \frac{\rho - \beta_{\text{mtx}}}{\Lambda}P + \lambda C $
 
 **Fuel Temperature**:
-$[ \dot{T}_f = \frac{P}{m_f c_{pf}} - \frac{hA}{m_f c_{pf}}(T_f - T_c)]$
+$ \dot{T_f} = \frac{P}{m_f c_{pf}} - \frac{hA}{m_f c_{pf}}(T_f - T_c)]$
 
 **Delayed Neutrons**:
-$[ \dot{C} = \frac{\beta_{\text{mtx}}}{\Lambda}P - \lambda C ]$
+$ \dot{C} = \frac{\beta_{\text{mtx}}}{\Lambda}P - \lambda C $
 
 **Coolant Temperature**:
-$[ \dot{T}_c = \frac{hA}{m_c c_{pc}}(T_f - T_c) - \frac{\dot{m}}{m_c}(T_c - T_{\text{in}})]$
+$ \dot{T_c} = \frac{hA}{m_c c_{pc}}(T_f - T_c) - \frac{\dot{m}}{m_c}(T_c - T_{\text{in}})]$
 
 ### Key Parameters
 | Parameter | Description | Typical Range |
