@@ -25,7 +25,7 @@ P, & T_f, & C, & E, & T_c
 
 ### Dynamic Equations
 **Power Dynamics**:
-$T_f \leq 800^\circ C$
+$ \dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C$
 
 **Fuel Temperature**:
 $ \dot{T_f} = \frac{P}{m_f c_{pf}} - \frac{hA}{m_f c_{pf}}(T_f - T_c)$
