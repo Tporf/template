@@ -28,13 +28,13 @@ P, & T_f, & C, & E, & T_c
 ${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
 
 **Fuel Temperature**:
-${\dot{P} = \frac{\rho - \beta_{mix}}{\Lambda}P + \lambda C}$
+$\dot{T_f} $
 
 **Delayed Neutrons**:
-$ {\dot{C} = \frac{\beta_{mtx}}{\Lambda}P - \lambda C} $
+$ \dot{C}  $
 
 **Coolant Temperature**:
-$ {\dot{T_c} = \frac{hA}{m_c c_{pc}}(T_f - T_c) - \frac{\dot{m}}{m_c}(T_c - T_{in})}$
+$ \dot{T_c} $
 
 ### Key Parameters
 | Parameter | Description | Typical Range |
